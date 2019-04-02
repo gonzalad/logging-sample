@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo-application-2
+logging:
+  file: app2.log
+server:
+  port: 8081
